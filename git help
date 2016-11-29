@@ -1,0 +1,52 @@
+[33mcommit 12a26593e4b2560b216a83240f03e75b58d8c196[m
+Merge: 364106f 21ecc8a
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:59:10 2016 -0600
+
+    Merge branch 'nextb'
+    
+    Conflicts:
+    	index.txt
+
+[33mcommit 364106ff83b4cfb7ce3ee0224dd5d79d99f4b907[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:51:18 2016 -0600
+
+    changed home in master
+
+[33mcommit 21ecc8af81f333badc4dc4b61a742747813d03f9[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:48:41 2016 -0600
+
+    changed index in branch
+
+[33mcommit 8cc05d65dab997ba13934f18c31c1b5449cb13e1[m
+Merge: 288f345 7a11566
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:41:49 2016 -0600
+
+    Merge branch 'thisb'
+
+[33mcommit 288f345cb2ab5b0cd629cec0308f3996af7ca77c[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:40:44 2016 -0600
+
+    add to master
+
+[33mcommit 7a11566356fa7cd4f07876efe9609f39de303972[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Tue Nov 29 10:38:51 2016 -0600
+
+    saved to branch
+
+[33mcommit 91f56260eb94fd7343c7156b06be12a0b7b434e6[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Mon Nov 28 14:31:31 2016 -0600
+
+    simplified text.txt
+
+[33mcommit 31e22f013b9025ca01cacd328aa48cbf7bb99d64[m
+Author: Jim Camomile <jim@stormhillmedia.com>
+Date:   Mon Nov 28 14:18:43 2016 -0600
+
+    first commit
